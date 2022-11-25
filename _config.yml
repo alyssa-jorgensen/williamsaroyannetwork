@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  alyssa-jorgensen
 
 # Build settings
-theme: minima
+theme: "ed."
 plugins:
   - jekyll-feed
 

@@ -6,4 +6,6 @@ layout: home
 ---
 <title>William Saroyan Epistolary Ego Network</title>
 <h1>William Saroyan Epistolary Ego Network</h1>
-    <p>The Network</p>
+    <ul>
+        <li>The Network</li>
+    </ul>

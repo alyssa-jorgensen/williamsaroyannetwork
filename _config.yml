@@ -31,7 +31,7 @@ github_username:  alyssa-jorgensen
 
 # Build settings
 theme: "ed."
-remote-theme: minicomp/ed.git
+remote-theme: minicomp/ed
 plugins:
   - jekyll-feed
 

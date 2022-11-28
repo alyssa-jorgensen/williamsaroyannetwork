@@ -31,6 +31,7 @@ github_username:  alyssa-jorgensen
 
 # Build settings
 theme: "ed."
+remote-them: "ed."
 plugins:
   - jekyll-feed
 

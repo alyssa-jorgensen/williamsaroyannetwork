@@ -5,5 +5,5 @@
 layout: default
 ---
 <title>William Saroyan Epistolary Ego Network</title>
-<h1>William Saroyan Epistolary Ego Network</h1>
+
     

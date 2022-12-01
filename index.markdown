@@ -9,5 +9,8 @@ layout: default
 <p>This site hosts data on William Saroyan's epistolary correspondances</p>
 
 <h2>About</h2>
+<h2>The Network</h2>
+<h2>Data Visualizatons</h2>
 <h2>Research</h2>
+<h2>The Authors</h2>
 <h2>Bibliography</h2>

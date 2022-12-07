@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<h1>About the Project</h1>
-
 <p>This site hosts an epistolary Ego Network of William Saroyan's correspondances with other authors and critics.</p>
 
 <p>Data is derived from the collection William Saroyan Papers, 1926-1981 found at Standford University. The collection is not digitally archived but a guide is available at the Online Archive of California. An additional letter to Henry Miller is included in the data which was published in <em>William Saroyan: The Man Remembered</em></p>

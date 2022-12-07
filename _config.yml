@@ -27,9 +27,11 @@ url: "https://alyssa-jorgensen.github.io" # the base hostname & protocol for you
 github_username:  alyssa-jorgensen
 
 collections:
--network.md
--data-visualizations.md
--research.md
+tutorial:
+order:
+- network.md
+- data-visualizations.md
+- research.md
 
 # Markdown specs
 markdown: kramdown

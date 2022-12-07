@@ -12,7 +12,7 @@ permalink: /about/
 
 <p>The network was created via Cytoscape. The data visualizations were created in RAWgraphs</p>
 
-<p>This site contains some sample letters. However, because the archive is not digitally archived, I currently do not have the capabilities to go to Stanford, and Saroyan's letters are rarely publisehd in collections, there is a very limited amount of sample texts.</p> 
+<p>This site contains some sample letters. However, because the archive is not digitally archived, I currently do not have the capabilities to go to Stanford, and Saroyan's letters are rarely publisehd in collections, there is a very limited amount of sample texts. The most complete data set regards Saroyan's correspondances with Tennessee Williams.</p> 
 
 <h2>Future Directions</h2>
 <p>The goal is to eventually host an interactive Network with attached letters and Wikipedia links</p>

@@ -26,6 +26,11 @@ baseurl: "/williamsaroyannetwork" # the subpath of your site, e.g. /blog
 url: "https://alyssa-jorgensen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  alyssa-jorgensen
 
+collections:
+-network.md
+-data-visualizations.md
+-research.md
+
 # Markdown specs
 markdown: kramdown
 

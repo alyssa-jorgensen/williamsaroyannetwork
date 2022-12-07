@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<h1>About the Project</h1>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<p>This site hosts an epistolary Ego Network of William Saroyan's correspondances with other authors and critics.</p>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<p>Data is derived from the collection William Saroyan Papers, 1926-1981 found at Standford University. The collection is not digitally archived but a guide is available at the Online Archive of California. An additional letter to Henry Miller is included in the data which was published in <em>William Saroyan: The Man Remembered</em></p>
 
+<p>This epistolary network focuses on authors specifically. The data available from Online Archive of California allowed me to access number of letters sent to and from Willam Saroyan, who Saroyan corresponded to, and a time span of letters sent.</p>
 
-[jekyll-organization]: https://github.com/jekyll
+<p>The network was created via Cytoscape. The data visualizations were created in RAWgraphs</p>
+
+<p>This site contains some sample letters. However, because the archive is not digitally archived, I currently do not have the capabilities to go to Stanford, and Saroyan's letters are rarely publisehd in collections, there is a very limited amount of sample texts.</p> 
+
+<h2>Future Directions</h2>
+<p>The goal is to eventually host an interactive Network with attached letters and Wikipedia links</p>
+

@@ -19,3 +19,4 @@ layout: default
 
 
 
+![William Saroyan Epistolary Ego Network]("C:\Users\acjor\OneDrive\Documents\GitHub\williamsaroyannetwork\saroyan-epistolary-ego-network.jpeg")

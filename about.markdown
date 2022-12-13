@@ -20,7 +20,7 @@ permalink: /about/
 
 <h2>Future Directions</h2>
 <p>Given the network's limited data it would be worth expanding into the archives of writers Saroyan is likely to have corresponded more with to expand the data.</p>
-<p> I would also like for the network to be interactive with attach links and sample letters similar to the <href a="https://linkedjazz.org/network/"LinkedJazz></p> 
+<p> I would also like for the network to be interactive with attach links and sample letters similar to the [1]: "https://linkedjazz.org/network/ "LinkedJazz"/p> 
 
 
 <h1>Research</h1>

@@ -19,4 +19,7 @@ layout: default
 
 
 
-![William Saroyan Epistolary Ego Network]("\Users\acjor\OneDrive\Documents\GitHub\williamsaroyannetwork\saroyan-epistolary-ego-network.jpeg")
+![William Saroyan Epistolary Ego Network]("..\Users\acjor\OneDrive\Documents\GitHub\williamsaroyannetwork\saroyan-epistolary-ego-network.jpeg")
+
+![Letters Written by Saroyan]("..\Users\acjor\OneDrive\Documents\GitHub\williamsaroyannetwork\saroyan_letters_written.png")
+![Letter Written to Saroyan]("..\Users\acjor\OneDrive\Documents\GitHub\williamsaroyannetwork\saroyan_letters_recieved.png")

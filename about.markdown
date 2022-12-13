@@ -16,7 +16,7 @@ permalink: /about/
 
 <p> Excluded from the data due to lack of correspondance from Saroyan though still relevant to note are numorous letters I came across from canon authors discussing William Saroyan and his work</p>
 
-<p>Texts were scanned on my iPhone using ScannerPro. The network was created in Cytoscape. The data visualizations were created in RStudio</p>
+<p>Texts were scanned on my iPhone using ScannerPro. The network was created in Cytoscape. The data visualizations were created in RAWGraphs</p>
 
 <h2>Future Directions</h2>
 <p>Given the network's limited data it would be worth expanding into the archives of writers Saroyan is likely to have corresponded more with to expand the data.</p>

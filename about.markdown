@@ -32,7 +32,9 @@ permalink: /about/
 
 <p>This network demonstrates that correspondance exists between Saroyan and major modernist writers such as T.S. Eliot, Sherwood Anderson, John Steinbeck, Gertrude Stein, and Thomas Wolfe. This network demonstrates that correspondance exists between Saroyan and Beat authors such as Terry Southern, Seymour Krim, and Ken Kesey.Saroyan has even corresponded with notable science fiction authors H.G. Wells, Ray Bradbury, and Frank Herbert.</p>
 
-<p>I believe the network demonstrates Saroyan's wide range of correspondance. Given that the network is currently very limited in its data, I believe looking into archives of other author would lend to more data and evenmore interesting insights. My suggestion is to begin with Jack Kerouac who is currently not in the network but I find it unlikely the two would have never corresponded even if it is simply one letter from Kerouac.</p>
+<p>I believe the network demonstrates Saroyan's wide range of correspondance. Given that the network is currently very limited in its data, I believe looking into archives of other author would lend to more data and evenmore interesting insights. My suggestion is to begin with Jack Kerouac who is currently not in the network but I find it unlikely the two would have never corresponded even if it is simply one letter from Kerouac. Aram Saroyan even accompanied Kerouac in his interview with Ted Berrigan as part of the <em>Writers at Work</em> series.</p>
 
 <p>Edward Halsey Foster claims that the connection between Saroyan and the beats “needs to be underscored as one of the truly significant lines of influence in American Literary History of our time” (45). Saroyan, though never a beat author, appears to be closely related to the movement through his influence. While the network only appears to show data from three beat authors and Lawrence Ferlinghetti who co-founded the famous City Lights book store and published several beat writers, I believe expanding into the archives of various other beat authors may further illuminate Saroyan's relationship to the generation.</p>
 
+
+<h1>Bibliography</h1>

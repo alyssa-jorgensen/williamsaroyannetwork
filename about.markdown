@@ -38,3 +38,31 @@ permalink: /about/
 
 
 <h1>Bibliography</h1>
+
+<h3>Containing Letters</h3>
+
+1. Laughlin, James. "Inhale and Exhale: A Letter to Henry Miller." Edited by Leo Hamalian, Associated University Press, 1987, pp. 219 - 223.
+
+2. Williams, Tennessee. <em>The Selected Letters of Tennessee Williams, Volume 1, 1920 - 1945</em>. Edited by Albert J. Delvin and Nancy M. Tischler, New Directions Publications, 2000.
+
+3. Mencken, H.L.. <em>The New Mencken Letters</em>. edited by Carl Bode, The Dial Press, 1977.
+
+4. Dreiser, Theodore. <em>The Letters of Theodore Dreiser</em>. edited by Robert Henry Elias, vol. 3, University of Pennsylvania Press, 1959. 
+
+5. Fante, John. John Fante: Selected Letters 1932 - 1981, edited by Seamus Cooney, Black Sparrow Press, 1991.
+
+6. Coates, Grace Stone. <em>Grace Stone Coates: Her Life in Letters</em>. Edited by Lee Rostad, Riverbend Published, 2004, pp. 107-40.
+
+{.bibliography}
+
+<h3>Further Reading on William Saroyan</h3>
+
+{.bibliography}
+
+<h3>Primary Texts</h3>
+
+{.bibliography}
+
+<h3>Other Sources</h3>
+
+{.bibliography}

@@ -18,8 +18,13 @@ layout: default
 
 
 
+<h3>William Saroyan Epistolary Ego Network</h3>
+![William Saroyan Epistolary Ego Network]("/Documents/GitHub/williamsaroyannetwork/saroyan-epistolary-ego-network.jpeg")
 
-![William Saroyan Epistolary Ego Network]("..\Users\acjor\OneDrive\Documents\GitHub\williamsaroyannetwork\saroyan-epistolary-ego-network.jpeg")
+<h3>Letters <em>from</em> Saroyan</h3>
+![Letters Written by Saroyan]("/Documents/GitHub/williamsaroyannetwork/saroyan_letters_written.png")
+<p>The above bar graph visualizes the number of letters written from Saroyan to each writer included in the network</p>
 
-![Letters Written by Saroyan]("..\Users\acjor\OneDrive\Documents\GitHub\williamsaroyannetwork\saroyan_letters_written.png")
-![Letter Written to Saroyan]("..\Users\acjor\OneDrive\Documents\GitHub\williamsaroyannetwork\saroyan_letters_recieved.png")
+<h3>Letters Written <em>to</em> Saroyan
+![Letters Written to Saroyan]("Documents/GitHub/williamsaroyannetwork/saroyan_letters_recieved.png")
+<p>The above bar graph visualizes the number of letter written to Saroyan from each writer included in the network

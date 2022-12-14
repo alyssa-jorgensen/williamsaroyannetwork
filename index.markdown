@@ -13,7 +13,7 @@ layout: default
 
 <h3>Figure 1: William Saroyan Epistolary Ego Network <em>Sample</em></h3>
 
-<img src="../williamsaroyannetwork/assets/saroyan_epistolary_ego_network_bigger.png" alt="William Saroyan Epistolary Ego Network">
+<img src="../williamsaroyannetwork/assets/saroyan_epistolary_ego_network.png" alt="William Saroyan Epistolary Ego Network" id="network">
 <p>Fully published Epistolary Ego Network is coming soon...</p>
 
 <h3>Figure 2: Letters <em>from</em> Saroyan</h3>
@@ -29,20 +29,20 @@ layout: default
 
 <h1>Sample Letters</h1>
 <p>
-    <a href="../williamsaroyannetwork/_pdfs/From_John_Fante_January_1939.pdf" type="application/pdf">From John Fante January 1939</a>
+    <a href="../williamsaroyannetwork/_pdfs/From_John_Fante_January_1939.pdf" role="link">From John Fante January 1939</a>
 </p>
 <p>
-    <a href="../GitHub/williamsaroyannetwork/_pdfs/From_Mencken_January_1936.pdf" type="application/pdf">From H.L. Mencken January 1936</a>
+    <a href="../williamsaroyannetwork/_pdfs/From_Mencken_January_1936.pdf" role="link">From H.L. Mencken January 1936</a>
 </p>
 <p>
-    <a href="../_pdfs/From_Tennessee_Williams_March_1940.pdf" type="application/pdf">from Tennessee Williams March 1940</a>
+    <a href="../williamsaroyannetwork/_pdfs/From_Tennessee_Williams_March_1940.pdf" role="link">from Tennessee Williams March 1940</a>
 </p>
 <p>
-    <a href="../GitHub/williamsaroyannetwork/_pdfs/From_Tennessee_Williams_November_29_1941.pdf" type="application">From Tennessee Williams November 29th 1941</a>
+    <a href="../williamsaroyannetwork/_pdfs/From_Tennessee_Williams_November_29_1941.pdf" role="link">From Tennessee Williams November 29th 1941</a>
 </p>
 <p>
-    <a href="../GitHub/williamsaroyannetwork/_pdfs/From_Tennessee_Williams_November_1941.pdf" type="pdf">From Tennessee Williams November 1941</a>
+    <a href="../williamsaroyannetwork/_pdfs/From_Tennessee_Williams_November_1941.pdf" role="link">From Tennessee Williams November 1941</a>
 </p>
 <p>
-    <a href="../GitHub/williamsaroyannetwork/_pdfs/To_Henry_Miller_July_1927.pdf" type="pdf">ToHenryMiller July 1927</a>
+    <a href="../williamsaroyannetwork/_pdfs/To_Henry_Miller_July_1927.pdf" role="link">To Henry Miller July 1927</a>
 </p>

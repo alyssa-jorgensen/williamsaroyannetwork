@@ -325,6 +325,11 @@ pre code {
     margin: 0 0 1rem;
     border-radius: 5px;
   }
+
+  .network {
+    width: 3795px;
+    height: 2392px;
+  }
   
   /* Tables */
   table {

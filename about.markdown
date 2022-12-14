@@ -76,5 +76,6 @@ Burroughs, William S., and Jack Kerouac. And the Hippos were Boiled in their Tan
 
 <h3>Other Sources</h3>
 Basmadjian, Garig. "Candid Conversation." <em>William Saroyan: The Man the Writer Remembered</em>, edited by Leo Hamalian, Associated University Press, 1987, pp. 132-157, https://archive.org/details/williamsaroyanma0000unse/mode/2up?q=garig.
-Berrigan, Ted. "Writers at Work: the Paris Review Interviews, Viking Press, edited by George Plimpton, vol. 4, 1976, pp. 360 - 395
+Berrigan, Ted. "Writers at Work: the Paris Review Interviews, Viking Press, edited by George Plimpton, vol. 4, 1976, pp. 360-395,
+Gold, Daniel. "The Beat Generation Star who Won't Answer to that Name." <em>The New York Times, 7 February 2013, www.nytimes.com/2013/02/08/movies/ferlinghetti-a-rebirth-of-wonder-by-christopher-felver.html.
 {.bibliography}

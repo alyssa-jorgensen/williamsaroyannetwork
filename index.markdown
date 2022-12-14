@@ -8,11 +8,7 @@ layout: default
 
 <p>This site will host a visual network on William Saroyan's epistolary correspondances with other writers. A sample image of the network can be found in Figure 1 below. Figures 2 and 3 use the same data used in the network but laid out in bar graph format which may be easier to read than the network at this time. Figure 2 depicts letters sent by Saroyan to other writers. Figure 3 depicts letters sent to Saroyan from other writers.</p>
 
-<p>Data is predominantly derived from the <em>William Saroyan Papers</em> at Stanford Univeristy. Given that Saroyan claims to have wrote at least 50,000 letters in his lifetime, the network we have here is remarkably incomplete [^fn1]:
-
-    Test.
-
-(Hamalian 20). See the "About" page for more details</p>
+<p>Data is predominantly derived from the <em>William Saroyan Papers</em> at Stanford Univeristy. Given that Saroyan claims to have wrote at least 50,000 letters in his lifetime, the network we have here is remarkably incomplete [^fn1]: (Hamalian 20). See the "About" page for more details</p>
 
 
 <h3>Figure 1: William Saroyan Epistolary Ego Network <em>Sample</em></h3>

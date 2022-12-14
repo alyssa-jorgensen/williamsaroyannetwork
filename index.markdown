@@ -29,10 +29,10 @@ layout: default
 
 <h1>Sample Letters</h1>
 <p>
-    <a href="../GitHub/williamsaroyannetwork/_texts/From_John_Fante_January_1939.pdf">From John Fante January 1939</a>
+    <a href="../GitHub/williamsaroyannetwork/assets/From_John_Fante_January_1939.pdf">From John Fante January 1939</a>
 </p>
 <p>
-    <a href="../GitHub/williamsaroyannetwork/_texts/From_Mencken_January_1936.pdf">From H.L. Mencken January 1936</a>
+    <a href="C:\Users\acjor\OneDrive\Documents\GitHub\williamsaroyannetwork\_texts\From_Mencken_January_1936.pdf">From H.L. Mencken January 1936</a>
 </p>
 <p>
     <a href="../GitHub/williamsaroyannetwork/_texts/From_Tennessee_Williams_March_1940.pdf">from Tennessee Williams March 1940</a>

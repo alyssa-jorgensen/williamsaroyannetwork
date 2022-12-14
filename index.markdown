@@ -19,7 +19,7 @@ layout: default
 
 
 <h3>William Saroyan Epistolary Ego Network</h3>
-<script src="../GitHub/williamsaroyannetwork/saroyan_correspondance_data.csv.cyjs"></script>
+<script src="../GitHub/williamsaroyannetwork/saroyan_correspondance_data.csv.cyjs">The Network</script>
 <img src="../williamsaroyannetwork/assets/saroyan_epistolary_ego_network.png" alt="William Saroyan Epistolary Ego Network">
 
 <h3>Letters <em>from</em> Saroyan</h3>

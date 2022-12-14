@@ -20,7 +20,7 @@ layout: default
 
 <h3>William Saroyan Epistolary Ego Network <em>Sample</em></h3>
 
-<img src="../williamsaroyannetwork/assets/saroyan_epistolary_ego_network.png" alt="William Saroyan Epistolary Ego Network">
+<img src="../williamsaroyannetwork/assets/saroyan_epistolary_ego_network_bigger.png" alt="William Saroyan Epistolary Ego Network">
 <p>Fully published Epistolary Ego Network is coming soon...</p>
 
 <h3>Figure One: Letters <em>from</em> Saroyan</h3>

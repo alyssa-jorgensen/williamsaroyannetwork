@@ -1,25 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Research
+permalink: /research/
 ---
-
-<p>Data was collected on William Saroyan's epistolary correspondances in order to host an ego network that would ideally help situated Saroyan's significance to 20th century literature. The ego network is not fully published yet, but can still be seen in a much less readeable format on the front page in figure 1. Figures 2 an 3 are available to visualize Saroyan's epistolary correspondances using the same data in bar graph format. Figure 2 depicts the number of letters Saroyan sent to each writer in the network. Figure 3 depicts the number of letters sent to Saroyan from other each writer in the network.</p>
-
-<p>In locating data for this network, the guide from <a href="https://oac.cdlib.org/view?docId=tf187001q3&view=dsc&style=oac4&dsc.position=1">Online Archive of California's</a> guide to the <em> Williams Saroyan Papers, 1926-1981</em> at Stanford University was a useful starting point for collecting data. Published books of letters accessed through Virginia Libraries and searched for in Google Books served to help locate some sample letters from Saroyan (though no publically available letters were found through google books; a letter from Theodore Dreiser to Saroyan was available with purchase and will be available in the site's bibliography).</p>
-
-<p>Some extra data was included in the network not located in the Archive. This data was only counteda s extra data if it's clear it was not found or currently available in the <em>William Saroyan Papers</em>. An additional letter to Henry Miller is included in the data which was published in <em>William Saroyan: The Man The Writer Remembered</em> edited by Leo Hamalian. Two additional letters from Tennessee Williams are also included, each of which were published in a collection of his letters edited by Albert J. Delvin and Nancy M. Tischler. These letters were originally from the <em><a href="https://www.hnoc.org/research/fred-w-todd-tennessee-williams-collection-mss-562-correspondence">Fred W. Todd Tennessee Williams Collection</a></em>. One letter published in that same collection by Devin and Tischler was from a private collection. It was not included as an extra data point to account for the possibility that it may have been donated at some point or another to the <em>William Saroyan Papers</em> and thus is possibly the same 1941 letter already included in the data. 25 additional letters are included from Saroyan to Grace Stone Coates and 11 additional letters were included from Grace Stone Coates to Saroyan, all of which were found in the collection of letters edited by Lee Rostad titled <em>Grace Stone Coates: Her Life in Letters</em>.The guide to <em>The William Saroyan Papers</em> only includes 11 letters from Coates to Saroyan so any additionaly letters in the collection were counted as extra and included in the data.</p> 
-
-<p>In total this network consists of 540 correspondances--135 of which are from Saroyan (out of an alleged at least 50,000 letters written). Aram Saroyan, William Saroyan's son, though a writer, was excluded from the data collected because he was an outlier.</p>
-
-<p>This site contains some sample letters from writers like Tennessee Williams, Grace Stone Coates, H.L. Mencken, John Fante, and one to Henry Miller. I currently waiting to recieve volumes 7 and 8 of T.S. Eliot's letters who published Saroyan to see if more sample letters may be found from there. The <em>William Saroyan Papers</em> are not digitally archived so samples could not be derived from the archive. 
-
-<p>Additionally, because the <em>William Saroyan Papers</em> are currently not digitally archived nor can I make it to Stanford at the moment, the kind of data that could be collected from these letters are limited. The relevant data provided by Online Archive of California included who Saroyan wrote to, how many letters Saroyan either sent or revieved, and a date range of when the letters were sent. Unfortunately, because dates were not available for each available letter some of that data is missing for most entries. More data may be derived from sample letters located such as the precise date and from where the letter was sent, but because sample letters are har to come by most entries lack this specificity. Due to these limitations only "to"/"from" data was used to create the network and figures 2 and 3. The focus of this research is therefore more to get a sense of who Saroyan wrote to and often he corresponded with each writer. Ideally in the future, if more metadata is included, more can be learned about Saroyan's letter writing across time and space.</p>
-
-<p>Sample letters were scanned on my iPhone using ScannerPro. The network was created in Cytoscape. The data visualizations were created in RAWGraphs</p>
-
-
-
 
 <h1>Research</h1>
 <p>The William Saroyan Epistolary Ego network works to situate William Saroyan within a larger network of writers.</p>

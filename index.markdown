@@ -41,8 +41,8 @@ layout: default
     <a href="../GitHub/williamsaroyannetwork/_pdfs/From_Tennessee_Williams_November_29_1941.pdf" type="application">From Tennessee Williams November 29th 1941</a>
 </p>
 <p>
-    <a href="..GitHub/williamsaroyannetwork/_pdfs/From_Tennessee_Williams_November_1941.pdf" type="pdf">From Tennessee Williams November 1941</a>
+    <a href="../GitHub/williamsaroyannetwork/_pdfs/From_Tennessee_Williams_November_1941.pdf" type="pdf">From Tennessee Williams November 1941</a>
 </p>
 <p>
-    <a href="..GitHub/williamsaroyannetwork/_pdfs/To_Henry_Miller_July_1927.pdf" type="pdf">To Henry Miller July 1927</a>
+    <a href="../GitHub/williamsaroyannetwork/_pdfs/To_Henry_Miller_July_1927.pdf" type="pdf">ToHenryMiller July 1927</a>
 </p>

@@ -29,10 +29,10 @@ layout: default
 
 <h1>Sample Letters</h1>
 <p>
-    <a href="../GitHub/williamsaroyannetwork/assets/From_John_Fante_January_1939.pdf">From John Fante January 1939</a>
+    <embed src="../GitHub/williamsaroyannetwork/assets/From_John_Fante_January_1939.pdf" type="application/pdf" width="100%" height="100%">From John Fante January 1939</a>
 </p>
 <p>
-    <a href="C:\Users\acjor\OneDrive\Documents\GitHub\williamsaroyannetwork\_texts\From_Mencken_January_1936.pdf">From H.L. Mencken January 1936</a>
+    <embed src="../GitHub\williamsaroyannetwork/_texts/From_Mencken_January_1936.pdf" type="application/pdf" width="100%" height="100%">From H.L. Mencken January 1936</a>
 </p>
 <p>
     <a href="../GitHub/williamsaroyannetwork/_texts/From_Tennessee_Williams_March_1940.pdf">from Tennessee Williams March 1940</a>
@@ -41,8 +41,8 @@ layout: default
     <a href="../GitHub/williamsaroyannetwork/_texts/From_Tennessee_Williams_November_29_1941.pdf">From Tennessee Williams November 29th 1941</a>
 </p>
 <p>
-    <a href="/Users/acjor/OneDrive/Documents/GitHub/williamsaroyannetwork/assets/From_Tennessee_Williams_November_1941.pdf">From Tennessee Williams November 1941</a>
+    <a href="..GitHub/williamsaroyannetwork/assets/From_Tennessee_Williams_November_1941.pdf">From Tennessee Williams November 1941</a>
 </p>
 <p>
-    <a href="/Users/acjor/OneDrive/Documents/GitHub/williamsaroyannetwork/assets/To_Henry_Miller_July_1927.pdf">To Henry Miller July 1927</a>
+    <a href="..GitHub/williamsaroyannetwork/assets/To_Henry_Miller_July_1927.pdf">To Henry Miller July 1927</a>
 </p>

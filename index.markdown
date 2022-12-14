@@ -29,20 +29,20 @@ layout: default
 
 <h1>Sample Letters</h1>
 <p>
-    <a href="C:\Users\acjor\OneDrive\Documents\GitHub\williamsaroyannetwork\_pdfs\From_John_Fante_January_1939.pdf" type="application/pdf">From John Fante January 1939</a>
+    <a href="../williamsaroyannetwork/_pdfs/From_John_Fante_January_1939.pdf" type="application/pdf">From John Fante January 1939</a>
 </p>
 <p>
     <a href="../GitHub/williamsaroyannetwork/_pdfs/From_Mencken_January_1936.pdf" type="application/pdf">From H.L. Mencken January 1936</a>
 </p>
 <p>
-    <a href="../GitHub/williamsaroyannetwork/_pdfs/From_Tennessee_Williams_March_1940.pdf" type="application/pdf">from Tennessee Williams March 1940</a>
+    <a href="../_pdfs/From_Tennessee_Williams_March_1940.pdf" type="application/pdf">from Tennessee Williams March 1940</a>
 </p>
 <p>
-    <a href="../GitHub/williamsaroyannetwork/_pdfs/From_Tennessee_Williams_November_29_1941.pdf" type="application/pdf">From Tennessee Williams November 29th 1941</a>
+    <a href="../GitHub/williamsaroyannetwork/_pdfs/From_Tennessee_Williams_November_29_1941.pdf" type="application">From Tennessee Williams November 29th 1941</a>
 </p>
 <p>
-    <a href="..GitHub/williamsaroyannetwork/_pdfs/From_Tennessee_Williams_November_1941.pdf" type="application/type">From Tennessee Williams November 1941</a>
+    <a href="..GitHub/williamsaroyannetwork/_pdfs/From_Tennessee_Williams_November_1941.pdf" type="pdf">From Tennessee Williams November 1941</a>
 </p>
 <p>
-    <a href="..GitHub/williamsaroyannetwork/_pdfs/To_Henry_Miller_July_1927.pdf" type="applicaton/type">To Henry Miller July 1927</a>
+    <a href="..GitHub/williamsaroyannetwork/_pdfs/To_Henry_Miller_July_1927.pdf" type="pdf">To Henry Miller July 1927</a>
 </p>

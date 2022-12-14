@@ -3,8 +3,6 @@ layout: page
 title: Research
 permalink: /research/
 ---
-
-<h1>Research</h1>
 <p>The William Saroyan Epistolary Ego network works to situate William Saroyan within a larger network of writers.</p>
 
 <p>The motivation for doing so resides in the fact that Saroyan was notably popular in his time yet has faded into relative obscurity. However Saroyan was notably influential to now canonized authors. Jack Kerouac claims in an interview with Ted Berrigan that William Saroyan was who got him out of his "19th century rut" (378). Kerouac even referenced Saroyan in his posthumously published novel <em>And the Hippos were Boiled in their Tanks</em> co-written with William Burroughs and originally written during WWII. In that novella, Kerouac is likely alluding to the short story "Among the Lost" from Saroyan's collection <em>The Daring Young Man on the Flying Trapeze</em> (1934). Collecting data for the network began as a search to see how far Saroyan's influence spread using letters as a material data point to demonstrate how aware Saroyan's contemporaries were of his work.</p>

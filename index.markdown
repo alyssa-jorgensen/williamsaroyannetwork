@@ -28,6 +28,9 @@ layout: default
 <p>William Saroyan is an Armenian-American playwright and short story writer associated with Bohemianism and San Francisco. He is perhaps best well-known for his short story collection <em>The Daring Young Man on the Flying Trapeze</em> (1934), his play <em>The Time of Your Life</em> (1939), or his novel <em>The Human Comedy</em> (1943). While fairly obscure today William Saroyan was well-known and celebrated amongst his contemporaries, serving as inspiration for quite a few now canonized writers. Beat author Jack Kerouac claims in an interview with Ted Berrigan as part of the series <em>Writers at Work</em> that William Saroyan was who got him out of his "19th century rut" (378). A few letters from Tennessee Williams written to Saroyan pre-<em>Glass-Menagerie</em>-fame suggest he too was particularly inspired by Saroyan.</p>
 
 <h1>Sample Letters</h1>
-
-
-[^fn1]: from Leo Hamalian's Preface to <em>William Saroyan: The Man The Writer Remembered</em> p. 20.
+<a href="From_John_Fante_January_1939.pdf">From John Fante January 1939</a>
+<a href="From_Mencken_January_1936.pdf">From H.L. Mencken January 1936</a>
+<a href="From_Tennessee_Williams_March_1940.pdf">from Tennessee Williams March 1940</a>
+<a href="From_Tennessee_Williams_November_29_1941.pdf">From Tennessee Williams November 29th 1941</a>
+<a href="From_Tennessee_Williams_November_1941.pdf">From Tennessee Williams November 1941</a>
+<a href="To_Henry_Miller_July_1927.pdf">To Henry Miller July 1927</a>

@@ -6,7 +6,7 @@ layout: default
 ---
 <title>William Saroyan Epistolary Ego Network</title>
 
-<p>This site hosts a visual network on William Saroyan's epistolary correspondances with other writers. Data is predominanlty derived from Data is derived from the collection William Saroyan Papers, 1926-1981 found at Standford University.</p>
+<p>This site will host a visual network on William Saroyan's epistolary correspondances with other writers.</p>
 
 <p>William Saroyan claims he wrote at least 50,000 letters in his lifetime, so the network we have here is remarkably incomplete (Hamalian 20). In fact given Saroyan’s propensity to write letters it is extremely likely that many of the correspondances which seem to be one-sided are in fact incomplete. To take the example of George Bernard Shaw, William Saroyan notes in an interview with Garig Basmadjian that he “loved” George Bernard Shaw’s The Prefaces (144 – 145) (“I loved Shaw, George Bernard, The Prefaces” is his exact transcribed quote). I assume it would be unlikely that Saroyan never wrote back to Shaw.</p>
 
@@ -18,14 +18,15 @@ layout: default
 
 
 
-<h3>William Saroyan Epistolary Ego Network</h3>
+<h3>William Saroyan Epistolary Ego Network <em>Sample</em></h3>
 
 <img src="../williamsaroyannetwork/assets/saroyan_epistolary_ego_network.png" alt="William Saroyan Epistolary Ego Network">
+<p>Fully published Epistolary Ego Network is coming soon...</p>
 
-<h3>Letters <em>from</em> Saroyan</h3>
+<h3>Figure One: Letters <em>from</em> Saroyan</h3>
 <img src="../williamsaroyannetwork/assets/saroyan_letters_written.png" alt="Letters Written by Saroyan">
 <p>The above bar graph visualizes the number of letters written from Saroyan to each writer included in the network</p>
 
-<h3>Letters Written <em>to</em> Saroyan
+<h3>Figure Two: Letters Written <em>to</em> Saroyan
 <img src="../williamsaroyannetwork/assets/saroyan_letters_recieved.png" alt="Letters Written to Saroyan">
 <p>The above bar graph visualizes the number of letter written to Saroyan from each writer included in the network

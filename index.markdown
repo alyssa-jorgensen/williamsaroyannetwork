@@ -8,7 +8,7 @@ layout: default
 
 <p>This site will host a visual network on William Saroyan's epistolary correspondances with other writers. A sample image of the network can be found in Figure 1 below. Figures 2 and 3 use the same data used in the network but laid out in bar graph format which may be easier to read than the network at this time. Figure 2 depicts letters sent by Saroyan to other writers. Figure 3 depicts letters sent to Saroyan from other writers.</p>
 
-<p>Data is predominantly derived from the <em>William Saroyan Papers</em> at Stanford Univeristy. Given that Saroyan claims to have wrote at least 50,000 letters in his lifetime, the network we have here is remarkably incomplete (Hamalian 20). See the "About" page for more details</p>
+<p>Data is predominantly derived from the <em>William Saroyan Papers</em> at Stanford Univeristy. Given that Saroyan claims to have wrote at least 50,000 letters in his lifetime, the network we have here is remarkably incomplete [^fn1](Hamalian 20). See the "About" page for more details</p>
 
 
 <h3>Figure 1: William Saroyan Epistolary Ego Network <em>Sample</em></h3>
@@ -28,3 +28,6 @@ layout: default
 <p>William Saroyan is an Armenian-American playwright and short story writer associated with Bohemianism and San Francisco. He is perhaps best well-known for his short story collection <em>The Daring Young Man on the Flying Trapeze</em> (1934), his play <em>The Time of Your Life</em> (1939), or his novel <em>The Human Comedy</em> (1943). While fairly obscure today William Saroyan was well-known and celebrated amongst his contemporaries, serving as inspiration for quite a few now canonized writers. Beat author Jack Kerouac claims in an interview with Ted Berrigan as part of the series <em>Writers at Work</em> that William Saroyan was who got him out of his "19th century rut" (378). A few letters from Tennessee Williams written to Saroyan pre-<em>Glass-Menagerie</em>-fame suggest he too was particularly inspired by Saroyan.</p>
 
 <h1>Sample Letters</h1>
+
+
+[^fn1] from Leo Hamalian's Preface to <em>William Saroyan: The Man The Writer Remembered</em> p. 20.

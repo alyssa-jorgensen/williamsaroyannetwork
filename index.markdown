@@ -20,17 +20,6 @@ layout: default
 
 <h3>William Saroyan Epistolary Ego Network</h3>
 
-<button onclick="someFunction()">The Network</button>
-
-<p id="network"></p>
-
-<script>
-{% src="../GitHub/williamsaroyannetwork/saroyan_correspondance_data.csv.cyjs">The Network %}
-function someFunction() {
-    document.getElementById("network").innerHTML = network;
-}
-</script>
-
 <img src="../williamsaroyannetwork/assets/saroyan_epistolary_ego_network.png" alt="William Saroyan Epistolary Ego Network">
 
 <h3>Letters <em>from</em> Saroyan</h3>

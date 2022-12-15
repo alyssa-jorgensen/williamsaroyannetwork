@@ -6,6 +6,7 @@ permalink: /bibliography/
 
 <h3>Containing Letters</h3>
 
+<p id="bibliography">
 1. Coates, Grace Stone. <em>Grace Stone Coates: Her Life in Letters</em>. Edited by Lee Rostad, Riverbend Published, 2004, pp. 107-40.
 
 2. Dreiser, Theodore. <em>The Letters of Theodore Dreiser</em>. edited by Robert Henry Elias, vol. 3, University of Pennsylvania Press, 1959. 
@@ -42,3 +43,4 @@ permalink: /bibliography/
 2. Berrigan, Ted. "Writers at Work: the Paris Review Interviews, Viking Press, edited by George Plimpton, vol. 4, 1976, pp. 360-395, https://archive.org/details/writersatworkpar00plimrich/page/n9/mode/2up.
 
 3. Gold, Daniel. "The Beat Generation Star who Won't Answer to that Name." <em>The New York Times</em>, 7 February 2013, www.nytimes.com/2013/02/08/movies/ferlinghetti-a-rebirth-of-wonder-by-christopher-felver.html.
+</p>

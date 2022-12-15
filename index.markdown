@@ -46,3 +46,6 @@ layout: default
 <p>
     <a href="https//:alyssa-jorgensen.github.io/williamsaroyannetwork/_texts/To_Henry_Miller_July_1927.pdf" role="pdf">To Henry Miller July 1927</a>
 </p>
+<p>
+Link to a PDF [here]({{ alyssa-jorgensen.github.io/williamsaroyannetwork}}/From_Tennessee_Williams_November_1941.pdf)
+</p>

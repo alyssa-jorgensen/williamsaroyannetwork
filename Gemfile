@@ -36,3 +36,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "html-proofer"
 gem "kramdown-parser-gfm"
 gem "webrick", "~> 1.7"
+
+gem "site.static_files"

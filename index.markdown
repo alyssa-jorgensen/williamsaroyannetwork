@@ -44,5 +44,5 @@ layout: default
     <a href="../williamsaroyannetwork/_texts/From_Tennessee_Williams_November_1941.pdf" role="pdf">From Tennessee Williams November 1941</a>
 </p>
 <p>
-    <a href="https//:alyssa-jorgensen.github.io/williamsaroyannetwork/_texts/To_Henry_Miller_July_1927.pdf" role="pdf">To Henry Miller July 1927</a>
+    <a href="/williamsaroyannetwork/_texts/To_Henry_Miller_July_1927.pdf" role="pdf">To Henry Miller July 1927</a>
 </p>
